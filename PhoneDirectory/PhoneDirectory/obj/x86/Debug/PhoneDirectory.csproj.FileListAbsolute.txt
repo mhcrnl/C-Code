@@ -1,0 +1,7 @@
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\obj\x86\Debug\PhoneDirectory.Form1.resources
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\obj\x86\Debug\PhoneDirectory.Properties.Resources.resources
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\obj\x86\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\obj\x86\Debug\PhoneDirectory.exe
+c:\users\guest\documents\visual studio 2010\Projects\PhoneDirectory\PhoneDirectory\obj\x86\Debug\PhoneDirectory.pdb
