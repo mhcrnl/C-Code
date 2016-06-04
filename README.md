@@ -1,0 +1,1 @@
+Code C# cu Winforms dezvoltat in MonoDevelop.
