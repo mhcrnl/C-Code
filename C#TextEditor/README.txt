@@ -1,0 +1,1 @@
+Acesta este un text scris in text editor.
